@@ -8,8 +8,10 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 pandas = "^2.2.2"
-tensorflow = "^2.17.0"
 yfinance = "^0.2.43"
+scikit-learn = "^1.5.2"
+torch = "^2.4.1"
+numpy = "^2.1.1"
 
 
 [build-system]
